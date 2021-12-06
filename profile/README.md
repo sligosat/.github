@@ -1,3 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/[sligosat])
+![Visitor Count](https://profile-counter.glitch.me/{sligosat}/count.svg)
 
 TBF
