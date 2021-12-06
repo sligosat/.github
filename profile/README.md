@@ -1,3 +1,3 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Profile views](https://gpvc.arturio.dev/[sligosat])
 
 TBF
