@@ -16,3 +16,4 @@ The 2021/22 "SligoSat" CanSat team from Summerhill College, Sligo believes in op
 | .github    | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/.github/main/LICENSE.txt)   |
 | images     | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/images/main/LICENSE.txt)   |
 | solidworks | [MIT License](https://raw.githubusercontent.com/sligosat/solidworks/main/LICENSE) |
+| groundstation | [MIT License](https://raw.githubusercontent.com/sligosat/groundstation/main/LICENSE.txt) |
