@@ -7,7 +7,22 @@
 
 The 2021/22 "SligoSat" CanSat team from Summerhill College, Sligo believes in open source and as such we have made every aspect of our project open source. We did this as all members of our team thought that open sourcing our project would both be the right thing to do and would also immortalise it beyond the competiton due to the fact that it may help other teams down the line, wether they be participating in CanSat Ireland or another competition further afield.
 
-## Repositories
+## Information
+
+<table>
+<tr><th>Team Members</th><th>License Rights</th></tr>
+<tr><td>
+
+| Name | Account     |
+|:----------:|-------------|
+| Jacob Hamilton | [jhamilton-17](https://github.com/jhamilton-17) |
+| Joseph McCann    | [JMCCschool](https://github.com/JMCCschool)   |
+| Darwin Thomas    | [Dragneel25](https://github.com/Dragneel25)   |
+| Diarmuid Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
+| Declan Brennan | [Dbrennan18](https://github.com/Dbrennan18) |
+| Umesh | [Soul07149](https://github.com/Soul07149) |
+
+</td><td>
 
 | Repository | License     |
 |:----------:|-------------|
@@ -17,3 +32,5 @@ The 2021/22 "SligoSat" CanSat team from Summerhill College, Sligo believes in op
 | images     | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/images/main/LICENSE.txt)   |
 | solidworks | [MIT License](https://raw.githubusercontent.com/sligosat/solidworks/main/LICENSE) |
 | groundstation | [MIT License](https://raw.githubusercontent.com/sligosat/groundstation/main/LICENSE.txt) |
+
+</td></tr> </table>
