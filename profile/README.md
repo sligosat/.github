@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-english-99cc00?style=flat-square)
 ![license](https://img.shields.io/badge/license-various%20licenses-blueviolet?style=flat-square)
 
-The 2021/22 "SligoSat" CanSat team from Summerhill College, Sligo believes in open source and as such we have made every aspect of our project open source. We did this as all members of our team thought that open sourcing our project would both be the right thing to do and would also immortalise it beyond the competiton due to the fact that it may help other teams down the line, wether they be participating in CanSat Ireland or another competition further afield.
+The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the benefits open source and as such have opted to make every aspect of our project open source. We did this as we hope to future proof our project beyond the 2021/22 CanSat Ireland competition by making it accessible to others as a learning resource for anybody, anywhere to use for their educational benefit. As we are trying to make this project more accessible you will also find we have translated our entire project into Irish with the hopes that it can be one of the increasingly few good examples of the Irish language being used in the STEM field.
 
 ## Information
 
