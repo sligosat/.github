@@ -20,7 +20,7 @@ The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the be
 | Darwin Thomas    | [Dragneel25](https://github.com/Dragneel25)   |
 | Diarmuid Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
 | Declan Brennan | [Dbrennan18](https://github.com/Dbrennan18) |
-| Umesh | [Soul07149](https://github.com/Soul07149) |
+| Umesh Bairwa | [Soul07149](https://github.com/Soul07149) |
 
 </td><td>
 
