@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-english-99cc00?style=flat-square)
 ![license](https://img.shields.io/badge/license-various%20licenses-blueviolet?style=flat-square)
 
-The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the benefits open source and as such have opted to make every aspect of our project open source. We did this as we hope to future proof our project beyond the 2021/22 CanSat Ireland competition by making it accessible to others as a learning resource for anybody, anywhere to use for their educational benefit. As we are trying to make this project more accessible you will also find we have translated our entire project into Irish with the hopes that it can be one of the increasingly few good examples of the Irish language being used in the STEM field.
+The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the benefits of open source and as such have opted to make every aspect of our project open source. With this in mind we hope to future proof our project beyond the 2021/22 CanSat Ireland competition by making it accessible to others as a learning resource for anybody, anywhere to use for their educational benefit. We have also translated our entire project into Irish as we believe it to be a massive part of our culture and want to give it a new life in the STEM field
 
 ## Information
 
