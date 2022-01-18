@@ -32,8 +32,8 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | socials    | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/socials/gh-pages/LICENSE.txt)   |
 | .github    | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/.github/main/LICENSE.txt)   |
 | images     | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/images/main/LICENSE.txt)   |
+| sligosat.github.io  | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/sligosat.github.io/main/license.txt)   |
 | solidworks | [MIT License](https://raw.githubusercontent.com/sligosat/solidworks/main/LICENSE) |
 | groundstation | [MIT License](https://raw.githubusercontent.com/sligosat/groundstation/main/LICENSE.txt) |
 | satellite | [MIT License](https://raw.githubusercontent.com/sligosat/satellite/master/LICENSE.txt) |
-| sligosat.github.io  | [CC-BY-4.0](https://raw.githubusercontent.com/sligosat/sligosat.github.io/main/license.txt)   |
 </td></tr> </table>
