@@ -17,12 +17,12 @@ This project has been built to the [specicifications](https://drive.google.com/f
 
 | Name | Account     |
 |:----------:|-------------|
-| Jacob Hamilton | [@jhamilton-17](https://github.com/jhamilton-17) |
-| Joseph McCann    | [@15Y](https://github.com/15Y)   |
-| Darwin Thomas    | [@Dragneel25](https://github.com/Dragneel25)   |
-| Diarmaid Taylor |[@DrmdTylr05](https://github.com/DrmdTylr05)   |
-| Declan Brennan | [@Dbrennan18](https://github.com/Dbrennan18) |
-| Fraser Woodward | [@Fraggle6](https://github.com/Fraggle6) |
+| Jacob Hamilton | [jhamilton-17](https://github.com/jhamilton-17) |
+| Joseph McCann    | [15Y](https://github.com/15Y)   |
+| Darwin Thomas    | [Dragneel25](https://github.com/Dragneel25)   |
+| Diarmaid Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
+| Declan Brennan | [Dbrennan18](https://github.com/Dbrennan18) |
+| Fraser Woodward | [Fraggle6](https://github.com/Fraggle6) |
 
 </td><td>
 
