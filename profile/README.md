@@ -36,4 +36,5 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | solidworks | [MIT License](https://raw.githubusercontent.com/sligosat/solidworks/main/LICENSE) |
 | groundstation | [MIT License](https://raw.githubusercontent.com/sligosat/groundstation/main/LICENSE.txt) |
 | satellite | [MIT License](https://raw.githubusercontent.com/sligosat/satellite/master/LICENSE.txt) |
+| site | [MIT License](https://raw.githubusercontent.com/sligosat/site/main/LICENSE) |
 </td></tr> </table>
