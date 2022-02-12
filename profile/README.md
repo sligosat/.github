@@ -20,7 +20,7 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | Jacob Hamilton | [jhamilton-17](https://github.com/jhamilton-17) |
 | Joseph McCann    | [15Y](https://github.com/15Y)   |
 | Darwin Thomas    | [Dragneel25](https://github.com/Dragneel25)   |
-| Fraser Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
+| Fraser Woodward |[Fraggle6](https://github.com/Fraggle6)   |
 | Declan Brennan | [Dbrennan18](https://github.com/Dbrennan18) |
 | Ahmed Kamar | [Ahmedka123](https://github.com/Ahmedka123) |
 
