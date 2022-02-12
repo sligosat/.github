@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-english-99cc00?style=flat-square)
 ![license](https://img.shields.io/badge/license-various%20licenses-blueviolet?style=flat-square)
 
-The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the benefits of open source and as such have opted to make every aspect of our project open source. With this in mind we hope to future proof our project beyond the 2021/22 CanSat Ireland competition by making it accessible to others as a learning resource for anybody, anywhere to use for their educational benefit. We have also translated our entire project into Irish as we believe it to be a massive part of our culture and want to give it a new life in the STEM field.
+The 2021/22 “SligoSat” CanSat team from Summerhill College believe in the benefits of open source and as such have opted to make every aspect of our project open source. With this in mind we hope to future proof our project beyond the 2021/22 CanSat Ireland competition by making it accessible to others as a learning resource for anybody, anywhere to use for their educational benefit.
 
 This project has been built to the [specicifications](https://drive.google.com/file/d/11dQWw6p45zp9hvpHacX0a5WrfdoS9-eJ/view) of the CanSat Ireland 2021/22 competition.
 
@@ -20,7 +20,7 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | Jacob Hamilton | [jhamilton-17](https://github.com/jhamilton-17) |
 | Joseph McCann    | [15Y](https://github.com/15Y)   |
 | Darwin Thomas    | [Dragneel25](https://github.com/Dragneel25)   |
-| Diarmaid Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
+| Fraser Taylor |[DrmdTylr05](https://github.com/DrmdTylr05)   |
 | Declan Brennan | [Dbrennan18](https://github.com/Dbrennan18) |
 | Ahmed Kamar | [Ahmedka123](https://github.com/Ahmedka123) |
 
