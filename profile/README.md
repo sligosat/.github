@@ -12,7 +12,7 @@ This project has been built to the [specicifications](https://drive.google.com/f
 ## Information
 
 <table>
-<tr><th>Team Members</th><th>License Rights</th></tr>
+<tr><th>Team Members</th><th>License Rights</th><th>Sponsors</th></tr>
 <tr><td>
 
 | Name | Account     |
@@ -36,4 +36,11 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | groundstation | [MIT License](https://raw.githubusercontent.com/sligosat/groundstation/main/LICENSE.txt) |
 | satellite | [MIT License](https://raw.githubusercontent.com/sligosat/satellite/master/LICENSE.txt) |
 | site | [MIT License](https://raw.githubusercontent.com/sligosat/site/main/LICENSE) |
+  
+</td><td>
+  
+| Sponsor | Contact     |
+|:----------:|-------------|
+| Miko Metals | [miko.ie](https://miko.ie/) |
+
 </td></tr> </table>
