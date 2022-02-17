@@ -39,8 +39,9 @@ This project has been built to the [specicifications](https://drive.google.com/f
   
 </td><td>
   
-| Sponsor | Contact     |
+| Sponsor | Website    |
 |:----------:|-------------|
 | Miko Metals | [miko.ie](https://miko.ie/) |
 | Carty Contractors | [cartygroup.com](https://cartygroup.com/) |
+| Summerhill College | [summerhillcollege.ie](https://summerhillcollege.ie/) |
 </td></tr> </table>
