@@ -44,4 +44,5 @@ This project has been built to the [specicifications](https://drive.google.com/f
 | Miko Metals | [miko.ie](https://miko.ie/) |
 | Carty Contractors | [cartygroup.com](https://cartygroup.com/) |
 | Summerhill College | [summerhillcollege.ie](https://summerhillcollege.ie/) |
+| IT Sligo | [itsligo.ie](https://www.itsligo.ie/) |
 </td></tr> </table>
